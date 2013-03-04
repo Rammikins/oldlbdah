@@ -208,14 +208,6 @@ function setReader(eventData) {
     var readerFeed = gapi.hangout.layout.createParticipantVideoFeed(reader.participantID);
     videoCanvas.setVideoFeed(readerFeed);
     readerVideoWindow.setTitle('Giant Hipster: ' + reader.name);
-    if (user.id == eventData.playerID) {
-            var pancakes = gapi.hangout.av.effects.createImageResource('https://dl.dropbox.com/u/44863/LBD/img/hipsterglasses.png');
-            overlay = pancakes.showFaceTrackingOverlay({
-                'trackingFeature': gapi.hangout.av.effects.FaceTrackingFeature.NOSE_ROOT,
-                'scaleWithFace': true,
-                'rotateWithFace': true,
-                'offset': {x: 0, y:0},
-                'scale': 1.0});
     //reset card selection variables
     firstCardSelected = false;
     secondCardSelected = false;
