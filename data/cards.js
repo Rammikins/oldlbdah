@@ -1395,7 +1395,7 @@ masterCards = [{"id":1,"cardType":"A","text":"Flying sex snakes.","numAnswers":0
     {"id":1395,"cardType":"A","text":"Craig Frank.","numAnswers":0,"expansion": "Actors"},
     {"id":1396,"cardType":"A","text":"Janice S. Lee.","numAnswers":0,"expansion": "Actors"},
     {"id":1397,"cardType":"A","text":"Hot.","numAnswers":0,"expansion": "Base"},
-    {"id":1398,"cardType":"A","text":"Single.","numAnswers"0:,"expansion": "Base"},
+    {"id":1398,"cardType":"A","text":"Single.","numAnswers":0,"expansion": "Base"},
     {"id":1399,"cardType":"A","text":"Chemistry.","numAnswers":0,"expansion": "Base"},
     {"id":1400,"cardType":"A","text":"Heat.","numAnswers":0,"expansion": "Base"},
     {"id":1401,"cardType":"A","text":"Tension.","numAnswers":0,"expansion": "Base"},
