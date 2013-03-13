@@ -1552,5 +1552,5 @@ masterCards = [{"id":1,"cardType":"A","text":"Flying sex snakes.","numAnswers":0
     {"id":1552,"cardType":"Q","text":"Btdubs, Darceface...","numAnswers":1,"expansion": "Base"},
     {"id":1553,"cardType":"Q","text":"You know _ is forever, right?","numAnswers":1,"expansion": "Base"},
     {"id":1554,"cardType":"Q","text":"This _ is super slammin'!","numAnswers":1,"expansion": "Base"}
-    {"id":1555,"cardType":"A","text":"Kelsey Geller","numAnswers":0,"expansion": "Base"}
+    {"id":1555,"cardType":"A","text":"Kelsey Geller.","numAnswers":0,"expansion": "Base"},
     ]
