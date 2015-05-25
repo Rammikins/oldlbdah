@@ -1,0 +1,1 @@
+LBD Against Humanity is a Lizzie Bennet Diaries-themed card game based on Cards Against Humanity, with coding from Hangouts Against Humanity.
